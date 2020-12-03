@@ -1,0 +1,42 @@
+#title_btn0
+{
+	background-color:gray;
+}
+
+#title_btn1
+{
+	background-color:gray;
+}
+
+#title_btn2
+{
+	background-color:gray;
+}
+
+#title_btn3
+{
+	background-color:gray;
+}
+
+#title_btn4
+{
+	background-color:gray;
+}
+#title_btn5
+{
+	background-color:gray;
+}
+
+QPushButton::checked
+{
+	border:none;
+	font:bold;
+	color:white;
+	background-color:rgba(122,122,122,255);
+}
+
+#frame
+{
+	border:1px solid #014F84;
+}
+}
